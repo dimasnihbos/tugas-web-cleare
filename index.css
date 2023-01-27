@@ -1,0 +1,61 @@
+.img  {
+    width: 150px;
+    position: relative;
+    left: 80px;
+    top: 200px;
+    float: left;
+}
+
+.bulet img {
+    width: 150px;
+    position: relative;
+    left: 140px;
+    top: 160px;
+    float: left;
+}
+.y img {
+    width: 150px;
+    position: relative;
+    left: 210px;
+    top: 125px;
+    float: left;
+}
+.x img {
+    width: 200px;
+    position: relative;
+    left: 280px;
+    top: 100px;
+    float: left;
+}
+.u img {
+    width: 200px;
+    position: relative;
+    left: 340px;
+    top: 65px;
+    float: left;
+}
+.kotak p{
+    position: relative;
+    right: 70px;
+    top: 360px;
+}
+.bulet p{
+    position: relative;
+    right: 10px;
+    top: 325px;
+}
+.y p{
+    position: relative;
+    left: 60px;
+    top: 290px;
+}
+.x p {
+    position: relative;
+    left: 90px;
+    top: 250px;
+}
+.u p {
+    position: relative;
+    left: 140px;
+    top: 210px;
+}
